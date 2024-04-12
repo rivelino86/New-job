@@ -1,0 +1,7 @@
+public_ip = 18.206.247.105
+private_ip = 172.31.87.58
+private_dns = ip-172-31-87-58.ec2.internal
+public_dns = ec2-18-206-247-105.compute-1.amazonaws.com
+key_name = ubuntu-key
+security_groups = launch-wizard-6
+security_group_ids = sg-0c18f09beb5423bb5
